@@ -1,3 +1,3 @@
 # TugasGrafkom
-Tugas Pertemuan 11 
-Menggambar Menggunakan Bresenham
+## Tugas Pertemuan 11 
+* Menggambar Menggunakan Bresenham
